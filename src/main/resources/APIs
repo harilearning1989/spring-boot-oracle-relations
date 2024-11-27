@@ -1,0 +1,15 @@
+http://localhost:8081/emp/saveEmp
+Method Type: Post
+RequestBody : {
+  "name": "John Smith",
+  "department": "Engineering",
+  "address": {
+    "street": "123 Main St",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipcode": "90001"
+  }
+}
+
+http://localhost:8081/emp/findAll
+Method Type: GET
