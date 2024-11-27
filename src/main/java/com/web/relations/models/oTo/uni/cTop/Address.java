@@ -1,4 +1,4 @@
-package com.web.relations.models.oTo.uni;
+package com.web.relations.models.oTo.uni.cTop;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

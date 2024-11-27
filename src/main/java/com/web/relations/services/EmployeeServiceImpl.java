@@ -2,7 +2,7 @@ package com.web.relations.services;
 
 import com.web.relations.dtos.EmployeeDTO;
 import com.web.relations.mappers.MapperService;
-import com.web.relations.models.oTo.uni.Employee;
+import com.web.relations.models.oTo.uni.pToc.Employee;
 import com.web.relations.repos.EmployeeRepository;
 import org.springframework.stereotype.Service;
 

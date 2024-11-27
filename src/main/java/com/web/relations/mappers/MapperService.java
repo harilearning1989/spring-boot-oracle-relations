@@ -1,7 +1,7 @@
 package com.web.relations.mappers;
 
 import com.web.relations.dtos.EmployeeDTO;
-import com.web.relations.models.oTo.uni.Employee;
+import com.web.relations.models.oTo.uni.pToc.Employee;
 
 import java.util.List;
 

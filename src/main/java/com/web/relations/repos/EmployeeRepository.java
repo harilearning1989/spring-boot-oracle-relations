@@ -1,6 +1,6 @@
 package com.web.relations.repos;
 
-import com.web.relations.models.oTo.uni.Employee;
+import com.web.relations.models.oTo.uni.pToc.Employee;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

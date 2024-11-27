@@ -2,8 +2,8 @@ package com.web.relations.mappers;
 
 import com.web.relations.dtos.AddressDTO;
 import com.web.relations.dtos.EmployeeDTO;
-import com.web.relations.models.oTo.uni.Address;
-import com.web.relations.models.oTo.uni.Employee;
+import com.web.relations.models.oTo.uni.pToc.Address;
+import com.web.relations.models.oTo.uni.pToc.Employee;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
